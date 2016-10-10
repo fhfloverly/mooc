@@ -89,3 +89,4 @@ Route::get('/home/index',function(){
 });
 
 Route::get('home/login','Home\LoginController@login');
+aaaaaaaaaaaaaaaa
